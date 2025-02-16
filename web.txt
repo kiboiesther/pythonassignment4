@@ -1,0 +1,131 @@
+1.What is an image map? 
+Is a positional information XHTML and HTML which has details of coordinates related to a unique image 
+2.How do you create links to sections on the same page? By 
+using the concept of css ,java and html programing languages 
+3.Does hyperlink apply to texts only? 
+Both images and texts can be used to create a hyperlink 
+5 What is the advantage of grouping several checkboxes together? 
+They help to organize them 
+6.What will happen if you overlap sets of tags? 
+Only the first tag will be recognized 
+7.What if there is no text between the tags or if a text was ommited by mistake?will it affect the 
+display of the HTML file? 
+If there is no text between the tags,then there is nothing to format 
+This no formatting will appear. 
+8.How do you create a link that will connect to another web page when clicked 
+a) select the text you want to hyperlink the text should exactly match the name of the page it will link to. 
+b)click the hyperlink icon. 
+x)when the create hyperlink window appears ,select the file you want to link to. 
+9.Do <th> tags always need to come at the start of the row or column? 
+Tags always need to come at the start of the row or column because they are mainly used for headings. 
+10.What is a marquee? 
+Is a scrolling piece of Text displayed either horizontally across or vertically down your web page 
+depending on the setting 
+11.How do you create a text on web page that will allow you to send an email when clicked? 
+HTML <a> tags provides you option to specify an email address to send an email.while using <a> tag as 
+an email you will use mailto: email address along with href attribute 
+12.Are <br> tags the only way to separate sections of text? 
+They are not the only ones used since we have <p> tag and<blockquote> 
+13.How are active links different normal links? 
+Hdhhsghsiwbwhsusjshhshehshsgevshhsevhsuehsudhdgdgdgegbehehheheheueuie 
+14.Hiw do you make a picture into a background image of a web page? 
+We use the css style under the css<style> tag ,add the property background-image 
+15.When is it appropriate to use the frames? 
+If the main links to the site are located in a frame that appears at the top or a long the edge of the 
+browser , the content of these links can be displayed in the reminder if the browser window. 
+16.Name two new tags introduced in the HTML 5?
+Details 
+Datalist 
+17.Two sementic tags included in the HTML 5 version 
+<article> 
+<aside> 
+<Details> 
+18.Two benefits of HTML 5 web storage 
+Can store 5 to 10 MB data that is far more than cookies. 
+Web storage data never transferred with an HTTP request , so it increases the performance of the 
+application 
+19.Two types of web storage in HTML 5 
+Local storage 
+Session storage 
+20.Application of cache in HTML 5 and why is us used 
+A web application is cached, and accessible without ana internet connection, now we can make an 
+offline web application that will run without an internet connection by just creating a manifest file in 
+our application. 
+21How do you align list elements in a HTML file? 
+We use the css text align property , in addition you need to put the list inside the div elements now add 
+the style to the div class and use the text align property with center as it’s value . 
+22.Differenciate between an ordered list and anordered list 
+Ordered list is used to create a list of items In a specific order while anordered list is used to create a 
+list of items in no particular order 
+23.How do you display a table in HTML web page? 
+By using<table> element, with the help of <tr> <td> and <th> elements. 
+CSS QUESTIONS 
+1.what are the limitations of css? 
+Css classes are created within the event theme. 
+You must have a period (.).. 
+You can not add more than 10000 characters within the css section per event 
+2.in how many ways can css be intergrated as a web page? 
+Three times-external, internal and inline 
+What does css selector mean? 
+Is the first part of a css rule it’s a pattern of elements and other terms that tell the browser which HTML 
+element to be selected to have the css property values inside the rule applied to them 
+4.Differenciate between logical and physical tags 
+<Strong> is a logical tag used to indicate that the text within should be displayed as bold, while<b> is a 
+physical tag that also causes the text within to be displayed as bold. 
+5.Differentiate between class selector from ID selector 
+Class selector can be used by multiple HTML elements while ID selector must only be used by one HTML 
+element within. 
+6.How to overrule underlining hyperlinks? 
+Using css text decorations property 
+7.What us css box model and what are it’s elements? 
+Is used when. Talking about design and layout. 
+Elements include margin, boarders, padding and the actual content 
+8.Definefloat property of css 
+Places an element in the left or right side of it’s container allowing text and inline elements to wrap 
+around it 
+9.How can the gap under the image be removed? 
+By using the css display property, because image is an inline level element so browser adds some 
+whitespace under the baseline to adjust other inline elements . 
+10.What us the meaning of cascading! How do style sheets cascade? 
+Cascading means styles can fall one style sheet to another enabling multiple style sheets to be used on 
+HTML documents, 
+11.what is inline style? 
+Are styles that are applied to a specific element within the body section of the web page. 
+12.How comments can be added in css 
+We simply place plain text inside/* */ marks 
+13.Explain prominent css frameworks 
+Is a prepped and ready to use library (cascading style sheet) the style sheets collection makes tha job of 
+a UI developer easier. 
+14.what is the difference between the usage of an ID and a class? 
+Class can be used by multiple HTML elements while ID must be used by only one HTML element within. 
+15.What are the ways to assign a certain color to an element in css 
+The common way is to use there hexadecimal values, 
+16.explain the css box model and it’s different elements 
+It’s used when talking a... ...bout design and layout, It’s 
+elements include margin, padding, and actual content 
+17.How will you target an h2 and h3 with the same styling? 
+If you are Target all h3 elements with a class of title class without using the @root directive you would 
+use h3{title class} 
+18. What is the float property used in css 
+Place an element on the left or right side of it’s container , allowing text and inline elements to wrap 
+around it 
+19.What are the type of different modules used in the current version of css? 
+Css1 
+Css2 
+Css3 
+20.What are the different media types allowed by css 
+Continuous or paged 
+Visual, audio, speech 
+Grid , bitmap 
+Interactive 
+21.How do you control image repetition using css? 
+By using the background -repeat property that will help us Control th repetition of the image, the 
+background repeat property is used to repeat the background image horizontally and vertically. 
+22.What is the general nomenclature of writing css? 
+The selector points to the HTML element you want to style the declaration block contains one or more 
+declarations. Separated by semicolons. 
+23.What is responsive web design? 
+Is the approach that suggests that design and development should respond to the user’s behavior and 
+environment based on screen size, platform and orientation, 
+24.What is the use of box shadow in css? 
+It adda shadow effects around an element’s frame thus you can set multiple effects se
